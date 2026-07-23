@@ -17,7 +17,7 @@ This project analyzes customer purchasing behavior during Diwali sales using Pyt
 - Married women aged 26–35 show strong purchasing behavior
 
 ## 📈 Dashboard
-![Dashboard](customer-behavior-analysis-dashboard.png)
+![Customer Behavior Dashboard](customer-behavior-analysis-dashboard.png)
 
 ## 📁 Files Included
 - Dataset (CSV)
