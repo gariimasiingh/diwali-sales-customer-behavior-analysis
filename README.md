@@ -44,9 +44,8 @@ The dataset contains customer transactions from Diwali sales, including:
 ---
 
 # 📸 Dashboard Preview
-
 <p align="center">
-<img src="diwali_sales_dashboard.png" width="1000">
+  <img src="customer-behavior-analysis-dashboard.png" width="1000">
 </p>
 
 ---
